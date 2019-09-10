@@ -190,7 +190,7 @@ div.portfolio-description {
 }
 
 @media (max-width: 768px) {
-  div.wrapper{
+  div.wrapper {
     width: 96%;
     grid-template-columns: 1fr;
   }
